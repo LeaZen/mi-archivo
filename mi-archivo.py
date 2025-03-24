@@ -1,3 +1,4 @@
-name = "Leandro"
+name = "Lionel"
+surname = "Messi"
 
-print (name)
+print (name, surname)
